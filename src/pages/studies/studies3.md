@@ -1,8 +1,8 @@
 ---
-title: Programador Full Stack
+title: Formacion Avanzada en Cuidados Paliativos
 location: Buenos Aires, Argentina
-url: http://foeberoz.gm/kuj
-institute: Universidad Tecnologica Nacional
-date: 2020
-tags: ["Frontend", "Backend"]
+url:
+institute: Universidad del Salvador, Instituto Pallium
+date: 2017
+tags: ["Paliativos", "Rehabilitacion"]
 ---

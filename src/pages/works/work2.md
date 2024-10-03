@@ -3,8 +3,11 @@ title: Rehabilitacion Paliativa
 date: 2017 - Actualidad
 url: ""
 location: Neuquen, Argentina
-org: Alegra Salud, Home Care, Care Home,
-tags: ["Rehabilitacion", "Cuidados Paliativos", "Decisiones Anticipadas"]
+org:
+tags: ["Alegra Salud", "Care-Home Nqn", "Home Care"]
 ---
 
-- What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- **Especialización en rehabilitación paliativa**, trabajando en diversos equipos interdisciplinarios para mejorar la calidad de vida de los pacientes en contextos complejos y avanzados.
+- **Participación en la mesa de rehabilitación** en el _XI Congreso de Cuidados Paliativos en Salta_, donde compartí conocimientos y experiencias con profesionales de la salud de todo el país.
+- **Charlas y talleres sobre rehabilitación paliativa** dirigidos a kinesiólogos, estudiantes, médicos y otros profesionales, promoviendo las mejores prácticas y la importancia de la rehabilitación en cuidados paliativos.
+- **Enfoque en atención centrada en la persona**, adaptando las intervenciones terapéuticas para aliviar el sufrimiento, mejorar la funcionalidad y contribuir al bienestar del paciente en la fase paliativa.
