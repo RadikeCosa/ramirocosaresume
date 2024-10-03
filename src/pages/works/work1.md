@@ -1,5 +1,5 @@
 ---
-title: Mejora Continua - Coordinador - Desarrollador
+title: Coordinador - Desarrollador
 date: 2020 - Actualidad
 url: ""
 location: Neuquen, Argentina

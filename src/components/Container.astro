@@ -14,13 +14,13 @@ const PDF = "/cvramiro.pdf";
 ---
 
 <div class="join join-vertical gap-1">
-  <AccordionLayout title={"About"} icon={"carbon:identification"}>
+  <AccordionLayout title={"Sobre Mi"} icon={"carbon:identification"}>
     <article class="text-justify">
       <Fragment set:html={about.compiledContent()} />
     </article>
   </AccordionLayout>
 
-  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
+  <AccordionLayout title={"Experiencia"} icon={"carbon:construction"}>
     {
       works.map((item) => {
         return (
@@ -38,7 +38,7 @@ const PDF = "/cvramiro.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Studies"} icon={"carbon:education"}>
+  <AccordionLayout title={"Estudios"} icon={"carbon:education"}>
     {
       studies.map((item) => {
         return (
@@ -55,7 +55,7 @@ const PDF = "/cvramiro.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Projects"} icon={"carbon:tools"}>
+  <AccordionLayout title={"Proyectos"} icon={"carbon:tools"}>
     {
       projects.map((item) => {
         return (
@@ -72,7 +72,7 @@ const PDF = "/cvramiro.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Files"} icon={"carbon:volume-file-storage"}>
+  <AccordionLayout title={"CV"} icon={"carbon:volume-file-storage"}>
     <div class="flex justify-center w-full">
       <div
         class="card card-compact card-bordered border-[oklch(var(--s))] w-96 md:w-112 lg:w-128 hover:shadow-lg transition-all"
@@ -96,7 +96,7 @@ const PDF = "/cvramiro.pdf";
     </div>
   </AccordionLayout>
 
-  <AccordionLayout title={"Contact"} icon={"carbon:location-person"}>
+  <AccordionLayout title={"Contacto"} icon={"carbon:location-person"}>
     <div class="flex flex-wrap content-around gap-4 justify-center">
       {
         contact.map((item) => {

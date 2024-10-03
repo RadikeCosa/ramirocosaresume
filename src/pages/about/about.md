@@ -3,7 +3,7 @@ title: about
 name: "Ramiro N. Cosa"
 designation: "Kinesiologo - Desarrollador"
 location: Neuquen, Arg 8300
-pronouns: "he/him/el"
+pronouns: "el / he"
 website: "www.ramirocosa.com"
 ---
 
